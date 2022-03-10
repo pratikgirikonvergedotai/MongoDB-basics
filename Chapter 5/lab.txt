@@ -1,0 +1,9 @@
+What room types are present in the sample_airbnb.listingsAndReviews collection?
+
+answer: 
+1) private room
+2) shared room
+3) Entire home/apt
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+

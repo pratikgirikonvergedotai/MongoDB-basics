@@ -1,0 +1,64 @@
+How many zips in the sample_training.zips dataset are neither over-populated nor under-populated?
+In this case, we consider population of more than 1,000,000 to be over- populated and less than 5,000 to be under-populated.
+
+
+answer: 11193
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+How many companies in the sample_training.companies dataset were
+
+either founded in 2004
+
+[and] either have the social category_code [or] web category_code,
+[or] were founded in the month of October
+
+[and] also either have the social category_code [or] web category_code?
+
+
+answer: 
+149
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+How many companies in the sample_training.companies collection have the same permalink as their twitter_username?
+
+answer: 1299
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+What is the name of the listing in the sample_airbnb.listingsAndReviews dataset that accommodates more than 6 people and has exactly 50 reviews?
+
+answer: Sunset Beach Lodge Retreat
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Using the sample_airbnb.listingsAndReviews collection find out how many documents have the "property_type" "House", and include "Changing table" as one of the "amenities"?
+
+answer: 
+11
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+How many companies in the sample_training.companies collection have offices in the city of Seattle?
+
+answer: 117
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+How many trips in the sample_training.trips collection started at stations that are to the west of the -74 longitude coordinate?
+answer: 1928
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+How many inspections from the sample_training.inspections collection were conducted in the city of NEW YORK?
+
+answer : 18279
+
+

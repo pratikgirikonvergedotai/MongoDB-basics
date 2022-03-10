@@ -1,0 +1,73 @@
+Chapter 2: Importing, Exporting, and Querying Data
+Quiz: What is JSON?
+
+Problem:
+Which of the following documents is correct JSON?
+
+answer:
+{"name" : "Devi", "age": 19, "major": "Computer Science"}
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Chapter 2: Importing, Exporting, and Querying Data
+Quiz: JSON vs. BSON
+
+Problem:
+Write BSON or JSON in the numbered blanks in the following sentences to make them true:
+
+answer:
+line 1 -> MongoDB stores data in BSON, and you can then view it in JSON.
+line 2 -> BSON is faster to parse and lighter to store than JSON
+line 3 -> JSON supports fewer data types than BSON
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Chapter 2: Importing, Exporting, and Querying Data
+Quiz: Import and Export
+
+Problem:
+Which of the following commands will add a collection that is stored in animals.json to an Atlas cluster?
+
+answer:
+mongoimport 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Chapter 2: Importing, Exporting, and Querying Data
+Quiz: Data Explorer
+
+Problem:
+In the sample_training.trips collection a person with birth year 1961 took a trip that started at "Howard St & Centre St". What was the end station name for that trip?
+
+answer:
+South End Ave & Liberty St
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Chapter 2: Importing, Exporting, and Querying Data
+Quiz: Find Command
+
+Problem:
+What does it do in the mongo shell?
+
+answer:
+Iterates through the cursor results
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Chapter 2: Importing, Exporting, and Querying Data
+Quiz: The mongo shell
+
+Problem:
+Which of the following statements are true about the mongo shell?
+
+answer:
+1) It is a fully functioning JavaScript interpreter
+2) It allows you to interact with your MongoDB instance without using a Graphical User Interface
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+

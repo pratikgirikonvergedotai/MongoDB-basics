@@ -1,0 +1,20 @@
+What actions are available to you via the Aggregation Builder in the Atlas Data Explorer?
+
+answer:
+1) Syntax for each selected aggregation stage.
+2) Export pipeline to a programming language.
+3) A preview of the data in the pipeline at each selected stage.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+What is MongoDB Charts?
+
+answer: 
+A product that helps you build visualizations of the data stored in your Atlas Cluster.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+What is MongoDB Compass?
+
+answer: 
+MongoDB's Graphical User Interface Product
